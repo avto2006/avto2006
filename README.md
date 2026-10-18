@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi there, I'm Avtandil (Avto) Bagaturia 👋
 
-<!--
-**avto2006/avto2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/avtandil-bagaturia-709195360/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:avtobagaturia21@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://avto2006.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-46E3B7?style=for-the-badge&logo=react&logoColor=black" alt="Portfolio" /></a>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 💻 **Junior Full-Stack / Front-End Developer** focused on building performant, modern, and interactive web applications.
+- 🎓 **Information Technology Student** at Caucasus International University.
+- 🛠️ Currently developing **[TechMart E-Commerce](https://github.com/avto2006/techmart-ecommerce)** — a full-stack e-commerce app built with React, TypeScript, and AI Features.
+- 💡 Built **[DevEnglish.ge](https://github.com/avto2006)** (speech-recognition learning tool for Georgian developers) and **Career AI Pathfinder**.
+- 🎯 Open to **Junior Full-Stack / Front-End Developer** roles, internships, and collaborative tech projects.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+#### **Frontend Development**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=black)
+
+#### **Backend & Databases**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+#### **Tools & Environment**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+### 🔥 Featured Projects
+
+| Project | Tech Stack | Description | Links |
+| :--- | :--- | :--- | :--- |
+| **TechMart E-Commerce** | React, TypeScript, Tailwind | Modern E-Commerce platform with product filtering, dynamic cart handling, and AI features. | [Repository](https://github.com/avto2006/techmart-ecommerce) |
+| **DevEnglish.ge** | React, Speech API, Vercel | Interactive platform for Georgian developers to practice IT-specific English with voice input. | [Repository](https://github.com/avto2006) |
+| **Career AI Pathfinder** | Groq API, AI, JavaScript | AI-powered career counseling tool delivering structured developer roadmaps. | [Repository](https://github.com/avto2006) |
+| **Synthwave 3D Runner** | Three.js, Web Audio API | Browser-based 3D endless runner game with interactive audio synthesis. | [Repository](https://github.com/avto2006) |
+
+---
+
+### 📬 Get In Touch
+
+- **LinkedIn:** [Avtandil Bagaturia](https://www.linkedin.com/in/avtandil-bagaturia-709195360/)
+- **Email:** [avtobagaturia21@gmail.com](mailto:avtobagaturia21@gmail.com)
+- **Portfolio:** [avto2006.github.io/Portfolio/](https://avto2006.github.io/Portfolio/)
