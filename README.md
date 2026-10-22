@@ -10,8 +10,6 @@
 
 - 💻 **Junior Full-Stack / Front-End Developer** focused on building performant, modern, and interactive web applications.
 - 🎓 **Information Technology Student** at Caucasus International University.
-- 🛠️ Currently developing **[TechMart E-Commerce](https://github.com/avto2006/techmart-ecommerce)** — a full-stack e-commerce app built with React, TypeScript, and AI Features.
-- 💡 Built **[DevEnglish.ge](https://github.com/avto2006)** (speech-recognition learning tool for Georgian developers) and **Career AI Pathfinder**.
 - 🎯 Open to **Junior Full-Stack / Front-End Developer** roles, internships, and collaborative tech projects.
 
 ---
