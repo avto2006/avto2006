@@ -44,10 +44,11 @@
 
 | Project | Tech Stack | Description | Links |
 | :--- | :--- | :--- | :--- |
-| **TechMart E-Commerce** | React, TypeScript, Tailwind | Modern E-Commerce platform with product filtering, dynamic cart handling, and AI features. | [Repository](https://github.com/avto2006/techmart-ecommerce) |
-| **DevEnglish.ge** | React, Speech API, Vercel | Interactive platform for Georgian developers to practice IT-specific English with voice input. | [Repository](https://github.com/avto2006) |
-| **Career AI Pathfinder** | Groq API, AI, JavaScript | AI-powered career counseling tool delivering structured developer roadmaps. | [Repository](https://github.com/avto2006) |
-| **Synthwave 3D Runner** | Three.js, Web Audio API | Browser-based 3D endless runner game with interactive audio synthesis. | [Repository](https://github.com/avto2006) |
+| **FilmPro.ge** | TypeScript, React, REST API | Full featured movie and media web application for exploring trending films and cast details. | [Repository](https://github.com/avto2006/FilmPro.ge) |
+| **Portfolio** | HTML5, CSS3, JavaScript | Personal developer portfolio website showcasing my web development projects and skills. | [Repository](https://github.com/avto2006/Portfolio) \| [Live Demo](https://avto2006.github.io/Portfolio/) |
+| **Full-Featured E-Commerce WebApp** | HTML5, CSS3, JavaScript | Complete e-commerce web platform with product filtering, dynamic cart management, and responsive design. | [Repository](https://github.com/avto2006/Full-Featured-E-Commerce-WebApp) |
+| **Robots Website** | HTML5, CSS3 | Interactive tech landing page featuring robotics themes and modern responsive layout. | [Repository](https://github.com/avto2006/Robots-Website) |
+| **Sport News** | HTML5, CSS3 | Clean sports news feed interface with grid layouts and intuitive user navigation. | [Repository](https://github.com/avto2006/Sport-News) |
 
 ---
 
